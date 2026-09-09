@@ -2,5 +2,7 @@
 
 ciPipeline(
     application: 'devops-frontend',
-    type: 'node'
+    type: 'node',
+    ecrRepository: 'devops-frontend',
+    awsRegion: 'us-east-2'
 )
