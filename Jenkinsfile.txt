@@ -1,0 +1,5 @@
+@Library('devops-shared-library') _
+
+ciPipeline(
+    application: 'devops-frontend'
+)
