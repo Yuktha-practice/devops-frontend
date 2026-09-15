@@ -4,5 +4,5 @@ ciPipeline(
     application: 'devops-frontend',
     type: 'node',
     ecrRepository: 'devops-frontend',
-    awsRegion: 'us-east-2'
+    awsRegion: 'eu-north-1'
 )
