@@ -4,6 +4,6 @@ ciPipeline(
     application: 'devops-frontend',
     type: 'node',
     ecrRepository: 'devops-frontend',
-    awsRegion: 'eu-north-1'
+    awsRegion: 'eu-north-1',
 	sonarProjectKey: 'devops-frontend'
 )
